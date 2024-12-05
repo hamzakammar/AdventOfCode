@@ -7,7 +7,7 @@
 - [x] Part 2
 
 **DAY 3**
-- [ ] Part 1
+- [x] Part 1
 - [ ] Part 2
 
 **DAY 4**
