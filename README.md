@@ -19,7 +19,7 @@
 - [ ] Part 2
 
 **DAY 6**
-- [ ] Part 1
+- [X] Part 1
 - [ ] Part 2
 
 **DAY 7**
