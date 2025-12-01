@@ -10,3 +10,4 @@ for i in range(len(listOfRules)):
         dictOfRules[int(listOfRules[i][0:2])] = []  # Initialize list if key not present
     dictOfRules[int(listOfRules[i][0:2])].append(int(listOfRules[i][3:5]))
 
+
